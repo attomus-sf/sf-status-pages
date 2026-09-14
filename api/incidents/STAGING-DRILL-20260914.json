@@ -3,10 +3,10 @@
     "semafore-portal"
   ],
   "demo": true,
-  "generated_at": "2026-09-14T11:10:30.788582Z",
+  "generated_at": "2026-09-14T11:13:39.283112Z",
   "id": "STAGING-DRILL-20260914",
   "resolved_at": "2026-09-14T00:33:38.183122Z",
-  "revision": "ab7f42b5fdbba18dc1e69bbdbe9909a613a586bc",
+  "revision": "8242987774bc97fa6fdd15ecaf9814f1cfa6988a",
   "schema_version": 1,
   "severity": "minor",
   "source_digest": "d9dbdb7826c7107f0fa66479e8c2513fb280be441cecd5ecb3ab18f70a0a4915",

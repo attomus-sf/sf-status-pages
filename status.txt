@@ -1,7 +1,7 @@
 DEMO — fictional examples
 Attomus status: Unknown
-Generated: 2026-09-14T11:10:30.788582Z
-Revision: ab7f42b5fdbba18dc1e69bbdbe9909a613a586bc
+Generated: 2026-09-14T11:13:39.283112Z
+Revision: 8242987774bc97fa6fdd15ecaf9814f1cfa6988a
 Verification: unverified. Source SHA-256: d9dbdb7826c7107f0fa66479e8c2513fb280be441cecd5ecb3ab18f70a0a4915
 Manual publication. Publication age is not live monitoring.
 Component labels are provisional; they do not imply monitored live services.
