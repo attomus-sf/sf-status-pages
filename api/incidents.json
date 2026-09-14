@@ -1,16 +1,16 @@
 {
   "demo": true,
-  "generated_at": "2026-09-14T00:32:42.019429Z",
+  "generated_at": "2026-09-14T00:33:40.591203Z",
   "incidents": [
     {
       "components": [
         "semafore-portal"
       ],
       "id": "STAGING-DRILL-20260914",
-      "resolved_at": null,
+      "resolved_at": "2026-09-14T00:33:38.183122Z",
       "severity": "minor",
       "started_at": "2026-09-14T00:31:31.746892Z",
-      "state": "monitoring",
+      "state": "resolved",
       "title": "Fictional staging publication drill",
       "updates": [
         {
@@ -22,13 +22,18 @@
           "at": "2026-09-14T00:32:40.690412Z",
           "state": "monitoring",
           "text": "Fictional staging drill: the independent publication route is working. Checking the update path; no real service disruption."
+        },
+        {
+          "at": "2026-09-14T00:33:38.183122Z",
+          "state": "resolved",
+          "text": "Fictional staging drill completed. Create, update and resolution have been exercised without the Cloudflare portal. This was a test, not a real incident."
         }
       ]
     }
   ],
-  "revision": "5722078383ed9910150bae96deb29a12730bb7bc",
+  "revision": "5377a420b2fb3055878afdf2c91aaad638c986e0",
   "schema_version": 1,
-  "source_digest": "7471674b58ba7bfdf4b2bb32a42737b329e90a0594d3471670691b633c2f9a72",
+  "source_digest": "d9dbdb7826c7107f0fa66479e8c2513fb280be441cecd5ecb3ab18f70a0a4915",
   "source_schema_version": 1,
   "verification": "unverified"
 }
