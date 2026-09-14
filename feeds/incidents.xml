@@ -5,7 +5,15 @@
     <link>https://attomus-sf.github.io/sf-status-pages/history/</link>
     <description>DEMO — Manual publication; publication age is not live monitoring. Verification: unverified.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 14 Sep 2026 11:13:39 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 13:03:43 GMT</lastBuildDate>
+    <item>
+      <title>DEMO — Fictional operator transport drill</title>
+      <link>https://attomus-sf.github.io/sf-status-pages/incidents/STAGING-08ff09d9-0a85-4c67-b048-a43884d6494e/</link>
+      <guid isPermaLink="true">https://attomus-sf.github.io/sf-status-pages/incidents/STAGING-08ff09d9-0a85-4c67-b048-a43884d6494e/</guid>
+      <pubDate>Mon, 14 Sep 2026 13:03:41 GMT</pubDate>
+      <description>DEMO — minor; investigating. Affected: semafore-portal, identity.
+2026-09-14T13:03:41.421632Z [investigating] Fictional staging only. Testing the operator publication queue and live readback. No real service outage.</description>
+    </item>
     <item>
       <title>DEMO — Fictional staging publication drill</title>
       <link>https://attomus-sf.github.io/sf-status-pages/incidents/STAGING-DRILL-20260914/</link>

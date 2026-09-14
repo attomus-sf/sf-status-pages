@@ -1,0 +1,10 @@
+{
+  "08ff09d9-0a85-4c67-b048-a43884d6494e": {
+    "at": "2026-09-14T13:03:41.421632Z",
+    "digest": "b4a016877339dabe7c4cf81ccc76429287f0e1a190552a301ee46beaef3d832e",
+    "incident_id": "STAGING-08ff09d9-0a85-4c67-b048-a43884d6494e",
+    "outcome": "accepted",
+    "request_id": "08ff09d9-0a85-4c67-b048-a43884d6494e",
+    "state": "investigating"
+  }
+}

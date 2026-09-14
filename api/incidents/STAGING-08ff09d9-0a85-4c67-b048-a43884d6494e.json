@@ -1,0 +1,26 @@
+{
+  "components": [
+    "semafore-portal",
+    "identity"
+  ],
+  "demo": true,
+  "generated_at": "2026-09-14T13:03:43.058841Z",
+  "id": "STAGING-08ff09d9-0a85-4c67-b048-a43884d6494e",
+  "resolved_at": null,
+  "revision": "1cbd4d63bc1b01a217e92cb6f776d21b0d1d12e5",
+  "schema_version": 1,
+  "severity": "minor",
+  "source_digest": "e5e0afa02b548988ae125f8231add3f7eadfda71af5964c46c918978a5cfd494",
+  "source_schema_version": 1,
+  "started_at": "2026-09-14T13:03:41.421632Z",
+  "state": "investigating",
+  "title": "Fictional operator transport drill",
+  "updates": [
+    {
+      "at": "2026-09-14T13:03:41.421632Z",
+      "state": "investigating",
+      "text": "Fictional staging only. Testing the operator publication queue and live readback. No real service outage."
+    }
+  ],
+  "verification": "unverified"
+}

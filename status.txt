@@ -1,20 +1,24 @@
 DEMO — fictional examples
-Attomus status: Unknown
-Generated: 2026-09-14T11:13:39.283112Z
-Revision: 8242987774bc97fa6fdd15ecaf9814f1cfa6988a
-Verification: unverified. Source SHA-256: d9dbdb7826c7107f0fa66479e8c2513fb280be441cecd5ecb3ab18f70a0a4915
+Attomus status: Degraded
+Generated: 2026-09-14T13:03:43.058841Z
+Revision: 1cbd4d63bc1b01a217e92cb6f776d21b0d1d12e5
+Verification: unverified. Source SHA-256: e5e0afa02b548988ae125f8231add3f7eadfda71af5964c46c918978a5cfd494
 Manual publication. Publication age is not live monitoring.
 Component labels are provisional; they do not imply monitored live services.
 
-SemaFore Portal (semafore-portal): Unknown. No timely explicit operational observation (24-hour limit).
+SemaFore Portal (semafore-portal): Degraded. Active minor or degraded incident.
 SemaFore API (semafore-api): Unknown. No timely explicit operational observation (24-hour limit).
 SemaFore Mobile (semafore-mobile): Unknown. No timely explicit operational observation (24-hour limit).
 Notifications (notifications): Unknown. No timely explicit operational observation (24-hour limit).
 File and media (file-media): Unknown. No timely explicit operational observation (24-hour limit).
 Attomus Website (attomus-website): Unknown. No timely explicit operational observation (24-hour limit).
 Customer Support (customer-support): Unknown. No timely explicit operational observation (24-hour limit).
-Identity (identity): Unknown. No timely explicit operational observation (24-hour limit).
+Identity (identity): Degraded. Active minor or degraded incident.
 Attomus API (attomus-api): Unknown. No timely explicit operational observation (24-hour limit).
+
+STAGING-08ff09d9-0a85-4c67-b048-a43884d6494e: Fictional operator transport drill — minor, investigating
+Affected: semafore-portal, identity
+2026-09-14T13:03:41.421632Z [investigating] Fictional staging only. Testing the operator publication queue and live readback. No real service outage.
 
 STAGING-DRILL-20260914: Fictional staging publication drill — minor, resolved
 Affected: semafore-portal

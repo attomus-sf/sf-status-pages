@@ -1,10 +1,10 @@
 {
   "demo": true,
-  "generated_at": "2026-09-14T11:13:39.283112Z",
+  "generated_at": "2026-09-14T13:03:43.058841Z",
   "maintenance": [],
-  "revision": "8242987774bc97fa6fdd15ecaf9814f1cfa6988a",
+  "revision": "1cbd4d63bc1b01a217e92cb6f776d21b0d1d12e5",
   "schema_version": 1,
-  "source_digest": "d9dbdb7826c7107f0fa66479e8c2513fb280be441cecd5ecb3ab18f70a0a4915",
+  "source_digest": "e5e0afa02b548988ae125f8231add3f7eadfda71af5964c46c918978a5cfd494",
   "source_schema_version": 1,
   "verification": "unverified"
 }
