@@ -1,0 +1,25 @@
+{
+  "components": [
+    "semafore-portal"
+  ],
+  "demo": true,
+  "generated_at": "2026-09-14T00:31:33.063110Z",
+  "id": "STAGING-DRILL-20260914",
+  "resolved_at": null,
+  "revision": "29b350b1f09b85055eb47c1f98a38c08bbc6a617",
+  "schema_version": 1,
+  "severity": "minor",
+  "source_digest": "50f6f0094ec60780c14ca3cd666a85cf33072437f5aa28b3bd7cfc38064bd67c",
+  "source_schema_version": 1,
+  "started_at": "2026-09-14T00:31:31.746892Z",
+  "state": "investigating",
+  "title": "Fictional staging publication drill",
+  "updates": [
+    {
+      "at": "2026-09-14T00:31:31.746892Z",
+      "state": "investigating",
+      "text": "Fictional staging test only. Verifying that an operator can publish independently of the Cloudflare portal. No real service incident is being reported."
+    }
+  ],
+  "verification": "unverified"
+}

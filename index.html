@@ -42,7 +42,7 @@
     <div class="page-heading">
       <p class="eyebrow">Service status <span aria-hidden="true">/</span> Manual publication</p>
       <h1>Attomus status</h1>
-      <p class="published">Generated <time datetime="2026-09-14T00:29:18.962262Z">14 Sep 2026 · 00:29:18 UTC</time>
+      <p class="published">Generated <time datetime="2026-09-14T00:31:33.063110Z">14 Sep 2026 · 00:31:33 UTC</time>
 </p>
       <p class="observation-note">Snapshot age is not live monitoring. These operator records reflect the supplied generation time; service conditions may have changed. This timestamp does not verify deployment.</p>
     </div>
@@ -50,12 +50,12 @@
 
 
 
-  <section class="status-banner status-unknown" aria-labelledby="overall-title">
+  <section class="status-banner status-degraded" aria-labelledby="overall-title">
     <p class="eyebrow">Current reported status</p>
-    <h2 id="overall-title"><span class="status-dot" aria-hidden="true"></span>Unknown</h2>
-    <p>There is not enough current observation evidence to report all components operational.</p>
+    <h2 id="overall-title"><span class="status-dot" aria-hidden="true"></span>Degraded</h2>
+    <p>One or more components have a reported service degradation.</p>
     
-    <p class="summary-links"><a href="#active">0 active incidents</a><a href="/sf-status-pages/history/">View incident history <span aria-hidden="true">→</span></a></p>
+    <p class="summary-links"><a href="#active">1 active incident</a><a href="/sf-status-pages/history/">View incident history <span aria-hidden="true">→</span></a></p>
   </section>
   <div class="status-layout">
   <section aria-labelledby="components-title">
@@ -66,11 +66,11 @@
     <h3 id="group-0">SemaFore</h3>
     <div class="components">
       <article class="component" id="component-semafore-portal">
-        <div class="component-title"><h4>SemaFore Portal</h4><span class="chip status-unknown">Unknown</span></div>
+        <div class="component-title"><h4>SemaFore Portal</h4><span class="chip status-degraded">Degraded</span></div>
         <p class="description">
 Portal access and workspace use.
 </p>
-        <p class="reason">No timely explicit operational observation (24-hour limit).</p>
+        <p class="reason">Active minor or degraded incident.</p>
         <p class="observation">No observation recorded.</p>
         <a class="component-history" href="/sf-status-pages/history/components/semafore-portal/">Incident history<span class="sr-only"> for SemaFore Portal</span> <span aria-hidden="true">↗</span></a>
       </article>
@@ -167,7 +167,28 @@ Application interfaces for Attomus integrations.
   </section>
   <div class="status-sidebar">
     <section id="active" aria-labelledby="active-title"><h2 id="active-title">Active incidents</h2>
-    <div class="empty"><p class="empty-title">No active incidents recorded</p><p>This alone does not establish service health.</p></div>
+    
+<article class="event" id="STAGING-DRILL-20260914">
+  <p class="eyebrow">STAGING-DRILL-20260914 · Severity: minor · investigating</p>
+  <h3><a href="/sf-status-pages/incidents/STAGING-DRILL-20260914/">Fictional staging publication drill</a></h3>
+  
+<ul class="inline-list" aria-label="Affected components">
+
+  <li><a href="/sf-status-pages/#component-semafore-portal">SemaFore Portal</a></li>
+
+</ul>
+
+  <p class="event-date">Started <time datetime="2026-09-14T00:31:31.746892Z">14 Sep 2026 · 00:31:31 UTC</time>
+</p>
+  
+    <p class="latest-label">Latest update · <time datetime="2026-09-14T00:31:31.746892Z">14 Sep 2026 · 00:31:31 UTC</time>
+</p><p class="literal">Fictional staging test only. Verifying that an operator can publish independently of the Cloudflare portal. No real service incident is being reported.</p>
+    <a class="text-link" href="/sf-status-pages/incidents/STAGING-DRILL-20260914/">Read full incident timeline<span class="sr-only">: Fictional staging publication drill</span> <span aria-hidden="true">→</span></a>
+  
+  
+  
+</article>
+
     </section>
     <section aria-labelledby="maintenance-title"><h2 id="maintenance-title">Upcoming &amp; in progress</h2>
     
@@ -186,7 +207,7 @@ Application interfaces for Attomus integrations.
       <p>Public component labels are provisional and do not imply monitored live services. Unknown means no timely operational observation. Operational observations expire after 24 hours at build time. This static page does not update itself.</p></div>
       <nav aria-label="Publication formats"><a href="/sf-status-pages/status.txt">Plain text status</a><a href="/sf-status-pages/api/status.json">Status JSON</a><a href="/sf-status-pages/feeds/incidents.xml">Incident feed</a><a href="/sf-status-pages/feeds/maintenance.xml">Maintenance feed</a></nav>
     </div>
-    <div class="provenance"><p>Verification: <strong>unverified</strong> · Revision: <span class="literal">d65acd2c9618fa8450542bafe690536d2fe218ad</span></p><p>The <a href="/sf-status-pages/integrity.json">source integrity manifest</a> records file digests, not publisher authentication.</p></div>
+    <div class="provenance"><p>Verification: <strong>unverified</strong> · Revision: <span class="literal">29b350b1f09b85055eb47c1f98a38c08bbc6a617</span></p><p>The <a href="/sf-status-pages/integrity.json">source integrity manifest</a> records file digests, not publisher authentication.</p></div>
   </footer>
 </body>
 </html>
