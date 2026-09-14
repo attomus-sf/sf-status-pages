@@ -1,0 +1,110 @@
+{
+  "components": [
+    {
+      "active_incidents": [],
+      "active_maintenance": [],
+      "group": "SemaFore",
+      "id": "semafore-portal",
+      "name": "SemaFore Portal",
+      "observation_status": "unknown",
+      "observed_at": null,
+      "reason": "No timely explicit operational observation (24-hour limit).",
+      "status": "unknown"
+    },
+    {
+      "active_incidents": [],
+      "active_maintenance": [],
+      "group": "SemaFore",
+      "id": "semafore-api",
+      "name": "SemaFore API",
+      "observation_status": "unknown",
+      "observed_at": null,
+      "reason": "No timely explicit operational observation (24-hour limit).",
+      "status": "unknown"
+    },
+    {
+      "active_incidents": [],
+      "active_maintenance": [],
+      "group": "SemaFore",
+      "id": "semafore-mobile",
+      "name": "SemaFore Mobile",
+      "observation_status": "unknown",
+      "observed_at": null,
+      "reason": "No timely explicit operational observation (24-hour limit).",
+      "status": "unknown"
+    },
+    {
+      "active_incidents": [],
+      "active_maintenance": [],
+      "group": "Shared services",
+      "id": "notifications",
+      "name": "Notifications",
+      "observation_status": "unknown",
+      "observed_at": null,
+      "reason": "No timely explicit operational observation (24-hour limit).",
+      "status": "unknown"
+    },
+    {
+      "active_incidents": [],
+      "active_maintenance": [],
+      "group": "Shared services",
+      "id": "file-media",
+      "name": "File and media",
+      "observation_status": "unknown",
+      "observed_at": null,
+      "reason": "No timely explicit operational observation (24-hour limit).",
+      "status": "unknown"
+    },
+    {
+      "active_incidents": [],
+      "active_maintenance": [],
+      "group": "Attomus",
+      "id": "attomus-website",
+      "name": "Attomus Website",
+      "observation_status": "unknown",
+      "observed_at": null,
+      "reason": "No timely explicit operational observation (24-hour limit).",
+      "status": "unknown"
+    },
+    {
+      "active_incidents": [],
+      "active_maintenance": [],
+      "group": "Attomus",
+      "id": "customer-support",
+      "name": "Customer Support",
+      "observation_status": "unknown",
+      "observed_at": null,
+      "reason": "No timely explicit operational observation (24-hour limit).",
+      "status": "unknown"
+    },
+    {
+      "active_incidents": [],
+      "active_maintenance": [],
+      "group": "Shared services",
+      "id": "identity",
+      "name": "Identity",
+      "observation_status": "unknown",
+      "observed_at": null,
+      "reason": "No timely explicit operational observation (24-hour limit).",
+      "status": "unknown"
+    },
+    {
+      "active_incidents": [],
+      "active_maintenance": [],
+      "group": "Attomus",
+      "id": "attomus-api",
+      "name": "Attomus API",
+      "observation_status": "unknown",
+      "observed_at": null,
+      "reason": "No timely explicit operational observation (24-hour limit).",
+      "status": "unknown"
+    }
+  ],
+  "demo": true,
+  "generated_at": "2026-09-14T00:29:18.962262Z",
+  "revision": "d65acd2c9618fa8450542bafe690536d2fe218ad",
+  "schema_version": 1,
+  "source_digest": "4dcf19a76d108d4b0c81486f0968296dee2985bd6d6f630e660de33c0d06d975",
+  "source_schema_version": 1,
+  "verification": "unverified"
+}

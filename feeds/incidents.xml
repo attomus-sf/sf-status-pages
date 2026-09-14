@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0">
+  <channel>
+    <title>DEMO — Attomus incidents</title>
+    <link>https://attomus-sf.github.io/sf-status-pages/history/</link>
+    <description>DEMO — Manual publication; publication age is not live monitoring. Verification: unverified.</description>
+    <language>en</language>
+    <lastBuildDate>Mon, 14 Sep 2026 00:29:18 GMT</lastBuildDate>
+  </channel>
+</rss>

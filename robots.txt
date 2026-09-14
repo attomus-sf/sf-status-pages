@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /
+# DEMO: fictional examples; HTML also retains noindex.
