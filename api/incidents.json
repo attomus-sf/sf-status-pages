@@ -1,6 +1,6 @@
 {
   "demo": true,
-  "generated_at": "2026-09-14T13:03:43.058841Z",
+  "generated_at": "2026-09-14T13:05:51.659746Z",
   "incidents": [
     {
       "components": [
@@ -11,13 +11,18 @@
       "resolved_at": null,
       "severity": "minor",
       "started_at": "2026-09-14T13:03:41.421632Z",
-      "state": "investigating",
+      "state": "monitoring",
       "title": "Fictional operator transport drill",
       "updates": [
         {
           "at": "2026-09-14T13:03:41.421632Z",
           "state": "investigating",
           "text": "Fictional staging only. Testing the operator publication queue and live readback. No real service outage."
+        },
+        {
+          "at": "2026-09-14T13:05:50.251829Z",
+          "state": "monitoring",
+          "text": "Fictional staging drill: monitoring recovery after the operator publication test. No real outage."
         }
       ]
     },
@@ -50,9 +55,9 @@
       ]
     }
   ],
-  "revision": "1cbd4d63bc1b01a217e92cb6f776d21b0d1d12e5",
+  "revision": "e4e1de9af900c907ccc7e6972589b825331d4e5b",
   "schema_version": 1,
-  "source_digest": "e5e0afa02b548988ae125f8231add3f7eadfda71af5964c46c918978a5cfd494",
+  "source_digest": "03cc5cd2a24a52fadaacd4834575c6cf8f88aeec5a0007016824f17cd44fd7c9",
   "source_schema_version": 1,
   "verification": "unverified"
 }
