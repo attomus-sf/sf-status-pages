@@ -1,0 +1,25 @@
+{
+  "components": [
+    "attomus-api"
+  ],
+  "demo": true,
+  "generated_at": "2026-09-14T13:27:07.274363Z",
+  "id": "STAGING-4d14e77f-4190-4a95-8a62-91d6e26a8d91",
+  "resolved_at": null,
+  "revision": "7a6deb5bc079171bf5fabd9d3e3560e67fef83dd",
+  "schema_version": 1,
+  "severity": "minor",
+  "source_digest": "43ff3e678619c6df4b7b668b0062aec5229d5c9d2f635147686edc6e6f82c2a6",
+  "source_schema_version": 1,
+  "started_at": "2026-09-14T13:27:05.674572Z",
+  "state": "investigating",
+  "title": "testing pre-release",
+  "updates": [
+    {
+      "at": "2026-09-14T13:27:05.674572Z",
+      "state": "investigating",
+      "text": "testing 1 1 1"
+    }
+  ],
+  "verification": "unverified"
+}

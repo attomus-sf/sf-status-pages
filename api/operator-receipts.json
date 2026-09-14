@@ -15,6 +15,14 @@
     "request_id": "423adff3-c79e-425a-8c60-ab07cc69a0ac",
     "state": "monitoring"
   },
+  "4d14e77f-4190-4a95-8a62-91d6e26a8d91": {
+    "at": "2026-09-14T13:27:05.674572Z",
+    "digest": "9ce877a96ecc6b3ad0751289f44759aad0a165bab104d25c4cc754dfc1afd460",
+    "incident_id": "STAGING-4d14e77f-4190-4a95-8a62-91d6e26a8d91",
+    "outcome": "accepted",
+    "request_id": "4d14e77f-4190-4a95-8a62-91d6e26a8d91",
+    "state": "investigating"
+  },
   "4deab329-ec4b-46f5-a049-9a92d16a993d": {
     "at": "2026-09-14T13:07:25.734107Z",
     "digest": "ef6900af8e9a1f809129775d41baa4bb20055a215a143fb39a03a6d5fac90a40",

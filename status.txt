@@ -1,8 +1,8 @@
 DEMO — fictional examples
-Attomus status: Unknown
-Generated: 2026-09-14T13:07:27.197200Z
-Revision: d2772189d9517808b0725d18544e5a2de6f8abf4
-Verification: unverified. Source SHA-256: 504e2dbd3d70dd0fc9380c7b9f508238f3542a1e7026f8a54de493a54443fa5d
+Attomus status: Degraded
+Generated: 2026-09-14T13:27:07.274363Z
+Revision: 7a6deb5bc079171bf5fabd9d3e3560e67fef83dd
+Verification: unverified. Source SHA-256: 43ff3e678619c6df4b7b668b0062aec5229d5c9d2f635147686edc6e6f82c2a6
 Manual publication. Publication age is not live monitoring.
 Component labels are provisional; they do not imply monitored live services.
 
@@ -14,7 +14,11 @@ File and media (file-media): Unknown. No timely explicit operational observation
 Attomus Website (attomus-website): Unknown. No timely explicit operational observation (24-hour limit).
 Customer Support (customer-support): Unknown. No timely explicit operational observation (24-hour limit).
 Identity (identity): Unknown. No timely explicit operational observation (24-hour limit).
-Attomus API (attomus-api): Unknown. No timely explicit operational observation (24-hour limit).
+Attomus API (attomus-api): Degraded. Active minor or degraded incident.
+
+STAGING-4d14e77f-4190-4a95-8a62-91d6e26a8d91: testing pre-release — minor, investigating
+Affected: attomus-api
+2026-09-14T13:27:05.674572Z [investigating] testing 1 1 1
 
 STAGING-08ff09d9-0a85-4c67-b048-a43884d6494e: Fictional operator transport drill — minor, resolved
 Affected: semafore-portal, identity
