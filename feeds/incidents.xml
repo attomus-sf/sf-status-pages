@@ -5,14 +5,15 @@
     <link>https://attomus-sf.github.io/sf-status-pages/history/</link>
     <description>DEMO — Manual publication; publication age is not live monitoring. Verification: unverified.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 14 Sep 2026 00:31:33 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 00:32:42 GMT</lastBuildDate>
     <item>
       <title>DEMO — Fictional staging publication drill</title>
       <link>https://attomus-sf.github.io/sf-status-pages/incidents/STAGING-DRILL-20260914/</link>
       <guid isPermaLink="true">https://attomus-sf.github.io/sf-status-pages/incidents/STAGING-DRILL-20260914/</guid>
-      <pubDate>Mon, 14 Sep 2026 00:31:31 GMT</pubDate>
-      <description>DEMO — minor; investigating. Affected: semafore-portal.
-2026-09-14T00:31:31.746892Z [investigating] Fictional staging test only. Verifying that an operator can publish independently of the Cloudflare portal. No real service incident is being reported.</description>
+      <pubDate>Mon, 14 Sep 2026 00:32:40 GMT</pubDate>
+      <description>DEMO — minor; monitoring. Affected: semafore-portal.
+2026-09-14T00:31:31.746892Z [investigating] Fictional staging test only. Verifying that an operator can publish independently of the Cloudflare portal. No real service incident is being reported.
+2026-09-14T00:32:40.690412Z [monitoring] Fictional staging drill: the independent publication route is working. Checking the update path; no real service disruption.</description>
     </item>
   </channel>
 </rss>
