@@ -14,5 +14,13 @@
     "outcome": "accepted",
     "request_id": "423adff3-c79e-425a-8c60-ab07cc69a0ac",
     "state": "monitoring"
+  },
+  "4deab329-ec4b-46f5-a049-9a92d16a993d": {
+    "at": "2026-09-14T13:07:25.734107Z",
+    "digest": "ef6900af8e9a1f809129775d41baa4bb20055a215a143fb39a03a6d5fac90a40",
+    "incident_id": "STAGING-08ff09d9-0a85-4c67-b048-a43884d6494e",
+    "outcome": "accepted",
+    "request_id": "4deab329-ec4b-46f5-a049-9a92d16a993d",
+    "state": "resolved"
   }
 }

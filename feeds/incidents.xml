@@ -5,15 +5,16 @@
     <link>https://attomus-sf.github.io/sf-status-pages/history/</link>
     <description>DEMO — Manual publication; publication age is not live monitoring. Verification: unverified.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 14 Sep 2026 13:05:51 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 13:07:27 GMT</lastBuildDate>
     <item>
       <title>DEMO — Fictional operator transport drill</title>
       <link>https://attomus-sf.github.io/sf-status-pages/incidents/STAGING-08ff09d9-0a85-4c67-b048-a43884d6494e/</link>
       <guid isPermaLink="true">https://attomus-sf.github.io/sf-status-pages/incidents/STAGING-08ff09d9-0a85-4c67-b048-a43884d6494e/</guid>
-      <pubDate>Mon, 14 Sep 2026 13:05:50 GMT</pubDate>
-      <description>DEMO — minor; monitoring. Affected: semafore-portal, identity.
+      <pubDate>Mon, 14 Sep 2026 13:07:25 GMT</pubDate>
+      <description>DEMO — minor; resolved. Affected: semafore-portal, identity.
 2026-09-14T13:03:41.421632Z [investigating] Fictional staging only. Testing the operator publication queue and live readback. No real service outage.
-2026-09-14T13:05:50.251829Z [monitoring] Fictional staging drill: monitoring recovery after the operator publication test. No real outage.</description>
+2026-09-14T13:05:50.251829Z [monitoring] Fictional staging drill: monitoring recovery after the operator publication test. No real outage.
+2026-09-14T13:07:25.734107Z [resolved] Fictional staging drill complete. The operator create, update and resolution transport has been checked. No real incident occurred.</description>
     </item>
     <item>
       <title>DEMO — Fictional staging publication drill</title>

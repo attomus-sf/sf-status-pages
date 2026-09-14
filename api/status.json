@@ -1,17 +1,15 @@
 {
   "components": [
     {
-      "active_incidents": [
-        "STAGING-08ff09d9-0a85-4c67-b048-a43884d6494e"
-      ],
+      "active_incidents": [],
       "active_maintenance": [],
       "group": "SemaFore",
       "id": "semafore-portal",
       "name": "SemaFore Portal",
       "observation_status": "unknown",
       "observed_at": null,
-      "reason": "Active minor or degraded incident.",
-      "status": "degraded"
+      "reason": "No timely explicit operational observation (24-hour limit).",
+      "status": "unknown"
     },
     {
       "active_incidents": [],
@@ -80,17 +78,15 @@
       "status": "unknown"
     },
     {
-      "active_incidents": [
-        "STAGING-08ff09d9-0a85-4c67-b048-a43884d6494e"
-      ],
+      "active_incidents": [],
       "active_maintenance": [],
       "group": "Shared services",
       "id": "identity",
       "name": "Identity",
       "observation_status": "unknown",
       "observed_at": null,
-      "reason": "Active minor or degraded incident.",
-      "status": "degraded"
+      "reason": "No timely explicit operational observation (24-hour limit).",
+      "status": "unknown"
     },
     {
       "active_incidents": [],
@@ -105,11 +101,11 @@
     }
   ],
   "demo": true,
-  "generated_at": "2026-09-14T13:05:51.659746Z",
-  "revision": "e4e1de9af900c907ccc7e6972589b825331d4e5b",
+  "generated_at": "2026-09-14T13:07:27.197200Z",
+  "revision": "d2772189d9517808b0725d18544e5a2de6f8abf4",
   "schema_version": 1,
-  "source_digest": "03cc5cd2a24a52fadaacd4834575c6cf8f88aeec5a0007016824f17cd44fd7c9",
+  "source_digest": "504e2dbd3d70dd0fc9380c7b9f508238f3542a1e7026f8a54de493a54443fa5d",
   "source_schema_version": 1,
-  "status": "degraded",
+  "status": "unknown",
   "verification": "unverified"
 }

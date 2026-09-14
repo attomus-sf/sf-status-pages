@@ -1,6 +1,6 @@
 {
   "demo": true,
-  "generated_at": "2026-09-14T13:05:51.659746Z",
+  "generated_at": "2026-09-14T13:07:27.197200Z",
   "incidents": [
     {
       "components": [
@@ -8,10 +8,10 @@
         "identity"
       ],
       "id": "STAGING-08ff09d9-0a85-4c67-b048-a43884d6494e",
-      "resolved_at": null,
+      "resolved_at": "2026-09-14T13:07:25.734107Z",
       "severity": "minor",
       "started_at": "2026-09-14T13:03:41.421632Z",
-      "state": "monitoring",
+      "state": "resolved",
       "title": "Fictional operator transport drill",
       "updates": [
         {
@@ -23,6 +23,11 @@
           "at": "2026-09-14T13:05:50.251829Z",
           "state": "monitoring",
           "text": "Fictional staging drill: monitoring recovery after the operator publication test. No real outage."
+        },
+        {
+          "at": "2026-09-14T13:07:25.734107Z",
+          "state": "resolved",
+          "text": "Fictional staging drill complete. The operator create, update and resolution transport has been checked. No real incident occurred."
         }
       ]
     },
@@ -55,9 +60,9 @@
       ]
     }
   ],
-  "revision": "e4e1de9af900c907ccc7e6972589b825331d4e5b",
+  "revision": "d2772189d9517808b0725d18544e5a2de6f8abf4",
   "schema_version": 1,
-  "source_digest": "03cc5cd2a24a52fadaacd4834575c6cf8f88aeec5a0007016824f17cd44fd7c9",
+  "source_digest": "504e2dbd3d70dd0fc9380c7b9f508238f3542a1e7026f8a54de493a54443fa5d",
   "source_schema_version": 1,
   "verification": "unverified"
 }
