@@ -89,25 +89,23 @@
       "status": "unknown"
     },
     {
-      "active_incidents": [
-        "STAGING-4d14e77f-4190-4a95-8a62-91d6e26a8d91"
-      ],
+      "active_incidents": [],
       "active_maintenance": [],
       "group": "Attomus",
       "id": "attomus-api",
       "name": "Attomus API",
       "observation_status": "unknown",
       "observed_at": null,
-      "reason": "Active minor or degraded incident.",
-      "status": "degraded"
+      "reason": "No timely explicit operational observation (24-hour limit).",
+      "status": "unknown"
     }
   ],
   "demo": true,
-  "generated_at": "2026-09-14T13:30:14.420917Z",
-  "revision": "9e3d0cd8cf31ce9c9d7882770c296a04c42d8040",
+  "generated_at": "2026-09-14T13:31:47.375585Z",
+  "revision": "9beb4a7b5ade0a0632333492b01128a9aea8690b",
   "schema_version": 1,
-  "source_digest": "8b296af9170c6fb204c499972c5bcacc23e614c3c7bfe439ac587c9f1dafae26",
+  "source_digest": "64aa64232acd83ddf3a55130af22ba0aa2500df02ee2102c7878e4f6cf6930d5",
   "source_schema_version": 1,
-  "status": "degraded",
+  "status": "unknown",
   "verification": "unverified"
 }

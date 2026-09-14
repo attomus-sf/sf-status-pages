@@ -3,16 +3,16 @@
     "attomus-api"
   ],
   "demo": true,
-  "generated_at": "2026-09-14T13:30:14.420917Z",
+  "generated_at": "2026-09-14T13:31:47.375585Z",
   "id": "STAGING-4d14e77f-4190-4a95-8a62-91d6e26a8d91",
-  "resolved_at": null,
-  "revision": "9e3d0cd8cf31ce9c9d7882770c296a04c42d8040",
+  "resolved_at": "2026-09-14T13:31:45.835706Z",
+  "revision": "9beb4a7b5ade0a0632333492b01128a9aea8690b",
   "schema_version": 1,
   "severity": "minor",
-  "source_digest": "8b296af9170c6fb204c499972c5bcacc23e614c3c7bfe439ac587c9f1dafae26",
+  "source_digest": "64aa64232acd83ddf3a55130af22ba0aa2500df02ee2102c7878e4f6cf6930d5",
   "source_schema_version": 1,
   "started_at": "2026-09-14T13:27:05.674572Z",
-  "state": "monitoring",
+  "state": "resolved",
   "title": "testing pre-release",
   "updates": [
     {
@@ -24,6 +24,11 @@
       "at": "2026-09-14T13:29:12.635203Z",
       "state": "monitoring",
       "text": "Fictional staging drill: verifying recovery after an interrupted publication. No real outage."
+    },
+    {
+      "at": "2026-09-14T13:31:45.835706Z",
+      "state": "resolved",
+      "text": "Fictional staging drill resolved. Signed-in publication and recovery from an interrupted deployment verified; no real outage occurred."
     }
   ],
   "verification": "unverified"

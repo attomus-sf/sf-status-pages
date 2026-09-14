@@ -5,15 +5,16 @@
     <link>https://attomus-sf.github.io/sf-status-pages/history/</link>
     <description>DEMO — Manual publication; publication age is not live monitoring. Verification: unverified.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 14 Sep 2026 13:30:14 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 13:31:47 GMT</lastBuildDate>
     <item>
       <title>DEMO — testing pre-release</title>
       <link>https://attomus-sf.github.io/sf-status-pages/incidents/STAGING-4d14e77f-4190-4a95-8a62-91d6e26a8d91/</link>
       <guid isPermaLink="true">https://attomus-sf.github.io/sf-status-pages/incidents/STAGING-4d14e77f-4190-4a95-8a62-91d6e26a8d91/</guid>
-      <pubDate>Mon, 14 Sep 2026 13:29:12 GMT</pubDate>
-      <description>DEMO — minor; monitoring. Affected: attomus-api.
+      <pubDate>Mon, 14 Sep 2026 13:31:45 GMT</pubDate>
+      <description>DEMO — minor; resolved. Affected: attomus-api.
 2026-09-14T13:27:05.674572Z [investigating] testing 1 1 1
-2026-09-14T13:29:12.635203Z [monitoring] Fictional staging drill: verifying recovery after an interrupted publication. No real outage.</description>
+2026-09-14T13:29:12.635203Z [monitoring] Fictional staging drill: verifying recovery after an interrupted publication. No real outage.
+2026-09-14T13:31:45.835706Z [resolved] Fictional staging drill resolved. Signed-in publication and recovery from an interrupted deployment verified; no real outage occurred.</description>
     </item>
     <item>
       <title>DEMO — Fictional operator transport drill</title>
