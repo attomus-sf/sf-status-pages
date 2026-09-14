@@ -8,8 +8,8 @@
       "name": "Messaging",
       "observation_status": "unknown",
       "observed_at": null,
-      "reason": "No timely explicit operational observation (24-hour limit).",
-      "status": "unknown"
+      "reason": "No current issue has been reported by the operator.",
+      "status": "no_known_issues"
     },
     {
       "active_incidents": [],
@@ -19,8 +19,8 @@
       "name": "Notifications",
       "observation_status": "unknown",
       "observed_at": null,
-      "reason": "No timely explicit operational observation (24-hour limit).",
-      "status": "unknown"
+      "reason": "No current issue has been reported by the operator.",
+      "status": "no_known_issues"
     },
     {
       "active_incidents": [],
@@ -30,8 +30,8 @@
       "name": "Files & attachments",
       "observation_status": "unknown",
       "observed_at": null,
-      "reason": "No timely explicit operational observation (24-hour limit).",
-      "status": "unknown"
+      "reason": "No current issue has been reported by the operator.",
+      "status": "no_known_issues"
     },
     {
       "active_incidents": [],
@@ -41,8 +41,8 @@
       "name": "Sign-in & device approval",
       "observation_status": "unknown",
       "observed_at": null,
-      "reason": "No timely explicit operational observation (24-hour limit).",
-      "status": "unknown"
+      "reason": "No current issue has been reported by the operator.",
+      "status": "no_known_issues"
     },
     {
       "active_incidents": [],
@@ -52,8 +52,8 @@
       "name": "Onboarding & invitation links",
       "observation_status": "unknown",
       "observed_at": null,
-      "reason": "No timely explicit operational observation (24-hour limit).",
-      "status": "unknown"
+      "reason": "No current issue has been reported by the operator.",
+      "status": "no_known_issues"
     },
     {
       "active_incidents": [],
@@ -63,8 +63,8 @@
       "name": "Admin portal",
       "observation_status": "unknown",
       "observed_at": null,
-      "reason": "No timely explicit operational observation (24-hour limit).",
-      "status": "unknown"
+      "reason": "No current issue has been reported by the operator.",
+      "status": "no_known_issues"
     },
     {
       "active_incidents": [],
@@ -74,15 +74,16 @@
       "name": "Billing",
       "observation_status": "unknown",
       "observed_at": null,
-      "reason": "No timely explicit operational observation (24-hour limit).",
-      "status": "unknown"
+      "reason": "No current issue has been reported by the operator.",
+      "status": "no_known_issues"
     }
   ],
   "demo": true,
-  "generated_at": "2026-09-14T13:48:54.082459Z",
-  "revision": "eaab1ed1929861d9170f8b1f77c484802d690dff",
+  "generated_at": "2026-09-14T13:57:09.792216Z",
+  "reporting_mode": "manual",
+  "revision": "7ed5386e9b2e9ccd7bff2cb6f934f80bdccd4a23",
   "schema_version": 1,
-  "source_digest": "ec407377aee350c7373ca9c0726ea03ac256fcc8bb6c10da32b2038a04665779",
+  "source_digest": "ee2264521fdcb590ef0fdab2cfbfd5b13383b5202be73f0ecf286deb3808561c",
   "source_schema_version": 2,
   "verification": "unverified"
 }

@@ -1,19 +1,19 @@
 DEMO — fictional examples
-Attomus status: Unknown
-Generated: 2026-09-14T13:48:54.082459Z
-Revision: eaab1ed1929861d9170f8b1f77c484802d690dff
-Verification: unverified. Source SHA-256: ec407377aee350c7373ca9c0726ea03ac256fcc8bb6c10da32b2038a04665779
+Attomus status: No known issues
+Generated: 2026-09-14T13:57:09.792216Z
+Revision: 7ed5386e9b2e9ccd7bff2cb6f934f80bdccd4a23
+Verification: unverified. Source SHA-256: ee2264521fdcb590ef0fdab2cfbfd5b13383b5202be73f0ecf286deb3808561c
 Manual publication. Publication age is not live monitoring.
 Component labels are provisional; they do not imply monitored live services.
 
-Messaging (messaging): Unknown. No timely explicit operational observation (24-hour limit).
-Notifications (notifications): Unknown. No timely explicit operational observation (24-hour limit).
-Files & attachments (file-media): Unknown. No timely explicit operational observation (24-hour limit).
-Sign-in & device approval (identity): Unknown. No timely explicit operational observation (24-hour limit).
-Onboarding & invitation links (onboarding): Unknown. No timely explicit operational observation (24-hour limit).
-Admin portal (semafore-portal): Unknown. No timely explicit operational observation (24-hour limit).
-Billing (billing): Unknown. No timely explicit operational observation (24-hour limit).
-Attomus API (attomus-api): Unknown. No timely explicit operational observation (24-hour limit).
+Messaging (messaging): No known issues. No current issue has been reported by the operator.
+Notifications (notifications): No known issues. No current issue has been reported by the operator.
+Files & attachments (file-media): No known issues. No current issue has been reported by the operator.
+Sign-in & device approval (identity): No known issues. No current issue has been reported by the operator.
+Onboarding & invitation links (onboarding): No known issues. No current issue has been reported by the operator.
+Admin portal (semafore-portal): No known issues. No current issue has been reported by the operator.
+Billing (billing): No known issues. No current issue has been reported by the operator.
+Attomus API (attomus-api): No known issues. No current issue has been reported by the operator.
 
 STAGING-4d14e77f-4190-4a95-8a62-91d6e26a8d91: testing pre-release — minor, resolved
 Affected: attomus-api
