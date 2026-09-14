@@ -1,8 +1,8 @@
 DEMO — fictional examples
 Attomus status: Degraded
-Generated: 2026-09-14T13:27:07.274363Z
-Revision: 7a6deb5bc079171bf5fabd9d3e3560e67fef83dd
-Verification: unverified. Source SHA-256: 43ff3e678619c6df4b7b668b0062aec5229d5c9d2f635147686edc6e6f82c2a6
+Generated: 2026-09-14T13:29:13.981104Z
+Revision: 9e3d0cd8cf31ce9c9d7882770c296a04c42d8040
+Verification: unverified. Source SHA-256: 8b296af9170c6fb204c499972c5bcacc23e614c3c7bfe439ac587c9f1dafae26
 Manual publication. Publication age is not live monitoring.
 Component labels are provisional; they do not imply monitored live services.
 
@@ -16,9 +16,10 @@ Customer Support (customer-support): Unknown. No timely explicit operational obs
 Identity (identity): Unknown. No timely explicit operational observation (24-hour limit).
 Attomus API (attomus-api): Degraded. Active minor or degraded incident.
 
-STAGING-4d14e77f-4190-4a95-8a62-91d6e26a8d91: testing pre-release — minor, investigating
+STAGING-4d14e77f-4190-4a95-8a62-91d6e26a8d91: testing pre-release — minor, monitoring
 Affected: attomus-api
 2026-09-14T13:27:05.674572Z [investigating] testing 1 1 1
+2026-09-14T13:29:12.635203Z [monitoring] Fictional staging drill: verifying recovery after an interrupted publication. No real outage.
 
 STAGING-08ff09d9-0a85-4c67-b048-a43884d6494e: Fictional operator transport drill — minor, resolved
 Affected: semafore-portal, identity

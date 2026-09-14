@@ -103,10 +103,10 @@
     }
   ],
   "demo": true,
-  "generated_at": "2026-09-14T13:27:07.274363Z",
-  "revision": "7a6deb5bc079171bf5fabd9d3e3560e67fef83dd",
+  "generated_at": "2026-09-14T13:29:13.981104Z",
+  "revision": "9e3d0cd8cf31ce9c9d7882770c296a04c42d8040",
   "schema_version": 1,
-  "source_digest": "43ff3e678619c6df4b7b668b0062aec5229d5c9d2f635147686edc6e6f82c2a6",
+  "source_digest": "8b296af9170c6fb204c499972c5bcacc23e614c3c7bfe439ac587c9f1dafae26",
   "source_schema_version": 1,
   "status": "degraded",
   "verification": "unverified"

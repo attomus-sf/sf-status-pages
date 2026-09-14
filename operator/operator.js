@@ -14,12 +14,13 @@ function chosen() { return incidents.find(i=>i.id===$('incident').value); }
 function layout() {
   const op = $('operation').value;
   $('create').hidden = op !== 'create'; $('existing').hidden = op === 'create'; $('progress').hidden = op !== 'update';
-  const item = chosen(); $('latest').textContent = item ? 'Latest update: '+item.updates.at(-1).text : 'No active incidents. Choose “Report a new incident” to begin.';
+  const item = chosen(); $('latest').textContent = item ? 'Latest update: '+item.updates.at(-1).text : incidents.some(i=>i.state!=='resolved') ? 'Choose an incident to read its latest update.' : 'No active incidents. Choose “Report a new incident” to begin.';
 }
 async function load() {
   [catalog, incidents] = await Promise.all([json('../api/components.json').then(x=>x.components),json('../api/incidents.json').then(x=>x.incidents)]);
   $('services').replaceChildren(); $('incident').replaceChildren();
   for (const c of catalog) { const label=document.createElement('label'),input=document.createElement('input'); input.type='checkbox';input.value=c.id;label.append(input,document.createTextNode(c.name));$('services').append(label); }
+  const placeholder=document.createElement('option');placeholder.value='';placeholder.textContent='Choose an active incident';$('incident').append(placeholder);
   for (const i of incidents.filter(i=>i.state!=='resolved')) { const option=document.createElement('option');option.value=i.id;option.textContent=i.title;$('incident').append(option); }
   const saved = stored().draft;
   if (saved) { for (const key of ['operation','incident','title','text','severity','state']) if (typeof saved[key]==='string') $(key).value=saved[key]; for(const input of document.querySelectorAll('#services input')) input.checked=(saved.components||[]).includes(input.value); }
